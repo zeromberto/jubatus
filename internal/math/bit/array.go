@@ -259,9 +259,7 @@ const (
 	arrayFormatVersion = 1
 )
 
-var arrayMsgpackHandle = &codec.MsgpackHandle{
-	RawToString: true,
-}
+var arrayMsgpackHandle = &codec.MsgpackHandle{}
 
 func (a *largeBitsArray) Save(w io.Writer) error {
 	if _, err := w.Write([]byte{arrayFormatVersion}); err != nil {

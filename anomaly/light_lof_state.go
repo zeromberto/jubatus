@@ -107,9 +107,7 @@ func (c *LightLOFStateCreator) CreateState(ctx *core.Context, params data.Map) (
 }
 
 var (
-	anomalyMsgpackHandle = &codec.MsgpackHandle{
-		RawToString: true,
-	}
+	anomalyMsgpackHandle = &codec.MsgpackHandle{}
 )
 
 func init() {

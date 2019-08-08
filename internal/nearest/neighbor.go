@@ -30,9 +30,7 @@ type IDist struct {
 type ID uint32
 
 var (
-	nnMsgpackHandle = &codec.MsgpackHandle{
-		RawToString: true,
-	}
+	nnMsgpackHandle = &codec.MsgpackHandle{}
 )
 
 func init() {
