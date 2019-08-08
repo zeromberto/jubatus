@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"errors"
 	"fmt"
-	"github.com/sensorbee/jubatus/internal/perline"
+	"github.com/zeromberto/jubatus/internal/perline"
 	"gopkg.in/sensorbee/sensorbee.v0/bql"
 	"gopkg.in/sensorbee/sensorbee.v0/core"
 	"gopkg.in/sensorbee/sensorbee.v0/data"

@@ -2,8 +2,8 @@ package nearest
 
 import (
 	"fmt"
-	"github.com/sensorbee/jubatus/internal/math/bit"
 	"github.com/ugorji/go/codec"
+	"github.com/zeromberto/jubatus/internal/math/bit"
 	"io"
 	"math"
 )

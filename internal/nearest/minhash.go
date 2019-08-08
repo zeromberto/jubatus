@@ -2,7 +2,7 @@ package nearest
 
 import (
 	"fmt"
-	"github.com/sensorbee/jubatus/internal/math/bit"
+	"github.com/zeromberto/jubatus/internal/math/bit"
 	"io"
 	"math"
 )

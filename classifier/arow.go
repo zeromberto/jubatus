@@ -3,9 +3,9 @@ package classifier
 import (
 	"errors"
 	"fmt"
-	"github.com/sensorbee/jubatus/internal/intern"
-	"github.com/sensorbee/jubatus/internal/nested"
 	"github.com/ugorji/go/codec"
+	"github.com/zeromberto/jubatus/internal/intern"
+	"github.com/zeromberto/jubatus/internal/nested"
 	"gopkg.in/sensorbee/sensorbee.v0/data"
 	"io"
 	"math"

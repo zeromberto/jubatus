@@ -1,8 +1,8 @@
 package plugin
 
 import (
-	"github.com/sensorbee/jubatus/classifier"
-	"github.com/sensorbee/jubatus/internal/math"
+	"github.com/zeromberto/jubatus/classifier"
+	"github.com/zeromberto/jubatus/internal/math"
 	"gopkg.in/sensorbee/sensorbee.v0/bql/udf"
 )
 

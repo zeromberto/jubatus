@@ -1,7 +1,7 @@
 package plugin
 
 import (
-	"github.com/sensorbee/jubatus/regression"
+	"github.com/zeromberto/jubatus/regression"
 	"gopkg.in/sensorbee/sensorbee.v0/bql/udf"
 )
 

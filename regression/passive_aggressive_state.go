@@ -3,8 +3,8 @@ package regression
 import (
 	"errors"
 	"fmt"
-	"github.com/sensorbee/jubatus/internal/pluginutil"
 	"github.com/ugorji/go/codec"
+	"github.com/zeromberto/jubatus/internal/pluginutil"
 	"gopkg.in/sensorbee/sensorbee.v0/bql/udf"
 	"gopkg.in/sensorbee/sensorbee.v0/core"
 	"gopkg.in/sensorbee/sensorbee.v0/data"

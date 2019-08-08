@@ -3,9 +3,9 @@ package anomaly
 import (
 	"errors"
 	"fmt"
-	"github.com/sensorbee/jubatus/internal/nearest"
-	"github.com/sensorbee/jubatus/internal/nested"
 	"github.com/ugorji/go/codec"
+	"github.com/zeromberto/jubatus/internal/nearest"
+	"github.com/zeromberto/jubatus/internal/nested"
 	"gopkg.in/sensorbee/sensorbee.v0/data"
 	"io"
 	"math"

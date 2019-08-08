@@ -1,7 +1,7 @@
 package plugin
 
 import (
-	"github.com/sensorbee/jubatus/anomaly"
+	"github.com/zeromberto/jubatus/anomaly"
 	"gopkg.in/sensorbee/sensorbee.v0/bql/udf"
 )
 

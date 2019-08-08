@@ -1,7 +1,7 @@
 package nearest
 
 import (
-	"github.com/sensorbee/jubatus/internal/math/bit"
+	"github.com/zeromberto/jubatus/internal/math/bit"
 	"math/rand"
 	"sort"
 )
